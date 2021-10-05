@@ -43,13 +43,11 @@ main {
 	text-align: center;
 }
 
-/* main > .intro {
-	font-family: 'Reem Kufi', sans-serif;
-	font-size: 3.75em;
-	font-weight: 600;
-	color: #374f6b
+main > .intro {
+	height:50px;
+	width:600px;
 }
- */
+ 
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
