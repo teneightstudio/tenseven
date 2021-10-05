@@ -44,6 +44,7 @@ main {
 }
 
 main > .intro {
+	justify-content: center;
 	height:50px;
 	width:600px;
 }
