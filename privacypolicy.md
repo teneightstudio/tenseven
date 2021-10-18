@@ -14,4 +14,4 @@ None. Nada… or in other words, nil.
 We use no third party platforms or APIs therefore, no information is collected.
 
 
-If you have questions, feel free to reach out to us via [email](teneightstudio@protonmail.com) or twitter.
+If you have questions, feel free to reach out to us via [email](teneightstudio@protonmail.com) or [twitter](https://twitter.com/teneightstudio).
