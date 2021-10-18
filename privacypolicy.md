@@ -1,15 +1,15 @@
 Last updated
 October 18, 2021
 
-#Privacy Policy
+# Privacy Policy
 
 
 
-##1.0 Information We Collect
+## 1.0 Information We Collect
 
 None. Nada… or in other words, nil.
 
-##1.1 Information from third parties
+## 1.1 Information from third parties
 
 We use no third party platforms or APIs therefore, no information is collected.
 
